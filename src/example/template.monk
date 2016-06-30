@@ -12,5 +12,5 @@
 </ol>
 <form>
     <input type="text">
-    <button type="submit">Add #{{ todos.length }}</button>
+    <button type="submit">Add #{{ todos.length + 1 }}</button>
 </form>
